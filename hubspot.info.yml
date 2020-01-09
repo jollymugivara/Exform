@@ -1,0 +1,7 @@
+name: 'Hubspot Drupal integration'
+description: 'Provides Hubspot leads API integration with Drupal'
+core: 8.x
+type: module
+configure:hubspot.admin_settings
+dependencies:
+- exform
